@@ -21,8 +21,8 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/CBE-dark.png",
-        "backgroundColor": "#000000"
+        "foregroundImage": "./assets/images/cbe-logo.png",
+        "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
       "package": "com.anonymous.CBE"
